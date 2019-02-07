@@ -17,4 +17,3 @@
 #}
 -dontwarn butterknife.internal.**
 -keep class com.google.firebase.provider.FirebaseInitProvider
--keep class com.example.instabug.**
